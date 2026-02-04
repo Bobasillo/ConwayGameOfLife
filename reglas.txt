@@ -1,0 +1,3 @@
+Supervivencia: Una célula viva con dos o tres vecinos vivos sobrevive.
+Muerte: Una célula viva con menos de dos vecinos muere por subpoblación; con más de tres, muere por sobrepoblación.
+Nacimiento: Una célula muerta con exactamente tres vecinos vivos se convierte en una célula viva. 
